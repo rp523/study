@@ -9,3 +9,10 @@
 [Learning Correspondence Uncertainty via Differentiable Nonlinear Least Squares](https://arxiv.org/abs/2305.09527)  
 [Revisiting Rotation Averaging_ Uncertainties and Robust Losses](https://arxiv.org/abs/2303.05195)  
 
+# EBM
+[Energy-based Out-of-distribution Detection](https://arxiv.org/pdf/2010.03759.pdf)  
+[Non-Generative Energy Based Models](https://arxiv.org/pdf/2304.01297.pdf)  
+[Balanced Energy Regularization Loss for Out-of-distribution Detection](https://arxiv.org/pdf/2306.10485.pdf)  
+[Towards Bridging the Performance Gaps of Joint Energy-based Models](https://arxiv.org/pdf/2209.07959.pdf)  
+[Glocal Energy-based Learning for Few-Shot Open-Set Recognition](https://arxiv.org/pdf/2304.11855.pdf)  
+
